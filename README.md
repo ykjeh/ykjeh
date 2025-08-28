@@ -1,11 +1,8 @@
 ## About me
 
 
-**ykjeh/ykjeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭  Sou estudante do 4 período de ADS na Unicesumar e estou aprofundadno meus conhecimentos em python e mysql. 
+- 🔭 Estudante do 4 período de ADS na Unicesumar e estou aprofundadno meus conhecimentos em python e mysql. 
 - 🌱 Atualmente atuo como Estagiária de Analise e Desenvolvimento de Sistemas, onde realizo tarefas com python, macros, automação de relatorios, etc.
 - 👯 No meu tempo livre gosto de assistir séries, aprofundar meus conhecimentos em programação e ir ao cinema.
 - 😄 Pronomes: ela/dela she/her
