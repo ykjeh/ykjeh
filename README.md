@@ -2,10 +2,16 @@
 
 
 
-- 🔭 Estudante do 4 período de ADS na Unicesumar, aprofundadno meus conhecimentos em python e mysql. 
+- 🔭 Me chamo Jessica e sou estudante do 4 período de ADS na Unicesumar, aprofundadno meus conhecimentos em python e mysql. 
 - 🌱 Atualmente atuo como Estagiária de Analise e Desenvolvimento de Sistemas, onde realizo tarefas com python, macros, automação de relatorios, etc.
 - 👯 No meu tempo livre gosto de assistir séries, aprofundar meus conhecimentos em programação e ir ao cinema.
 - 😄 Pronomes: ela/dela she/her
+
+
+<a href="https://github.com/iuricode" title="Perfil da Jessi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ykjeh&theme=dracula&show_icons=true" />
+</a>
+
 
 <p align="left">
   💌 Entre em contato comigo: ⤵️
@@ -17,3 +23,4 @@
   <a href="#" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
   </p>
+
