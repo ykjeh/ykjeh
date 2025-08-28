@@ -8,10 +8,6 @@
 - 😄 Pronomes: ela/dela she/her
 
 
-<a href="https://github.com/iuricode" title="Perfil da Jessi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ykjeh&theme=dracula&show_icons=true" />
-</a>
-
 
 <p align="left">
   💌 Entre em contato comigo: ⤵️
