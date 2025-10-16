@@ -14,6 +14,7 @@
 </p>
 
 <p align="left">
+  [GMAIL](mailto:jessica.23.0002@gmail.com)
   <a href="#" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&(href=mailto:jessica.23.0002@gmail.com)" alt="Gmail"/></a>
   <a href="#" title="LinkedIn">
