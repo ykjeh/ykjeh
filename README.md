@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Me chamo Jessica e sou estudante do 4 período de ADS na Unicesumar, aprofundando meus conhecimentos em python e mysql. 
+- 🔭 Me chamo Jessica e sou estudante do 4 período de ADS na Unicesumar, aprofundando meus conhecimentos em python, java e mysql. 
 - 🌱 Atualmente atuo como Estagiária de Analise e Desenvolvimento de Sistemas, onde realizo tarefas com python, macros, automação de relatorios, etc.
 - 👯 No meu tempo livre gosto de assistir séries, aprofundar meus conhecimentos em programação e ir ao cinema.
 - 😄 Pronomes: ela/dela she/her
